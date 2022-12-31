@@ -10,19 +10,26 @@
 
 
 # Program-2 : 
-    
+    Write a Python program to sort (ascending and descending) a dictionary by value.
+
 
 # Program-3 :
-    
+    Write a Python program to concatenate following dictionaries to create a new one.
+
+    Sample Dictionary :
+    dic1={1:10, 2:20}
+    dic2={3:30, 4:40}
+    dic3={5:50,6:60}
+    Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 
 # Program-4 :
-    
+    Write a Python program to check whether a given key already exists in a dictionary.
 
 # Program-5 :
-   
+   Write a Python program to iterate over dictionaries using for loops
 
 # Program-6 : 
-   
+   Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
 
 # Program-7 :
    
