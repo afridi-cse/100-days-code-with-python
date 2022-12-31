@@ -40,11 +40,5 @@
 # Program-9 :
   Write a Python program to get the maximum and minimum value in a dictionary.
 
-# Program-8 :
-   Write a Python program to map two lists into a dictionary.
-
-# Program-8 :
-   Write a Python program to map two lists into a dictionary.
-
-# Program-8 :
-   Write a Python program to map two lists into a dictionary.
+# Program-10 :
+  Write a Python program to remove duplicates from Dictionary.
