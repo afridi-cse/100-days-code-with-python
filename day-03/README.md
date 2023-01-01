@@ -15,7 +15,7 @@
     Write a Python program to filter a list of integers using Lambda.
 
 # Program-5 :
-   
+   Write a Python program to find whether a given string starts with a given character using Lambda.
 
 # Program-6 : 
   
