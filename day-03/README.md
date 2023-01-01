@@ -18,7 +18,7 @@
    Write a Python program to find whether a given string starts with a given character using Lambda.
 
 # Program-6 : 
-  
+  Write a Python program to extract year, month, date and time using Lambda.
 # Program-7 :
   
 # Program-8 :
