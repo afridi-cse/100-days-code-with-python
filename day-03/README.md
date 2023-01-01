@@ -12,22 +12,19 @@
     Write a Python program to sort a list of dictionaries using Lambda.
 
 # Program-4 :
-    Write a Python program to check whether a given key already exists in a dictionary.
+    Write a Python program to filter a list of integers using Lambda.
 
 # Program-5 :
-   Write a Python program to iterate over dictionaries using for loops
+   
 
 # Program-6 : 
-   Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
-
+  
 # Program-7 :
-   Write a Python script to merge two Python dictionaries.
-
+  
 # Program-8 :
-   Write a Python program to map two lists into a dictionary.
+  
 
 # Program-9 :
-  Write a Python program to get the maximum and minimum value in a dictionary.
-
+  
 # Program-10 :
-  Write a Python program to remove duplicates from Dictionary.
+  
