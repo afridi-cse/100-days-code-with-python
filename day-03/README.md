@@ -22,7 +22,7 @@
 # Program-7 :
   Write a Python program to check whether a given string is number or not using Lambda.
 # Program-8 :
-  
+  Write a Python program to add two given lists using map and lambda.
 
 # Program-9 :
   
