@@ -20,7 +20,7 @@
 # Program-6 : 
   Write a Python program to extract year, month, date and time using Lambda.
 # Program-7 :
-  
+  Write a Python program to check whether a given string is number or not using Lambda.
 # Program-8 :
   
 
