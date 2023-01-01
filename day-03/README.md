@@ -25,6 +25,8 @@
   Write a Python program to add two given lists using map and lambda.
 
 # Program-9 :
-  
+  Write a Python program to find the second lowest grade of any student(s) from the given names and grades of each student using lists and lambda. Input number of students, names and grades of each student.
+
+Note: If there are multiple students with the same grade then print each name alphabetically.
 # Program-10 :
   
