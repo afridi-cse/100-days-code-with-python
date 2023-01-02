@@ -6,7 +6,7 @@ Write a Python program to filter the height and width of students, which are sto
 
 # Program-2 : 
    
-
+Write a Python program to extract the nth element from a given list of tuples using lambda.
 
 # Program-3 :
     
