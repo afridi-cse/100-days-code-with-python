@@ -45,6 +45,8 @@ Note: The harmonic sum is the sum of reciprocals of the positive integers.
   (power(3,4) -> 81
 
 # Program-9 :
+  Write a Python program to find the greatest common divisor (gcd) of two integers.
+
 
 # Program-10 :
  
