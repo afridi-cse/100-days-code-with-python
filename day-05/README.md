@@ -39,6 +39,10 @@ Note: The harmonic sum is the sum of reciprocals of the positive integers.
 
 # Program-8 :
  
+  Write a Python program to calculate the value of 'a' to the power 'b'.
+
+  Test Data:
+  (power(3,4) -> 81
 
 # Program-9 :
 
