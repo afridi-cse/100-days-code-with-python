@@ -14,9 +14,13 @@ Write a Python program to calculate the sum of a list of numbers.
 
 # Program-4 :
   Write a Python program to solve the Fibonacci sequence using recursion
-  
+
 # Program-5 :
 
+  Write a Python program to get the sum of a non-negative integer.
+  Test Data:
+  sumDigits(345) -> 12
+  sumDigits(45) -> 9
  
 
 # Program-6 : 
