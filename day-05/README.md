@@ -33,7 +33,9 @@ Write a Python program to calculate the sum of a list of numbers.
 
 
 # Program-7 :
- 
+ Write a Python program to calculate the harmonic sum of n-1. Go to the editor
+Note: The harmonic sum is the sum of reciprocals of the positive integers.
+
 
 # Program-8 :
  
