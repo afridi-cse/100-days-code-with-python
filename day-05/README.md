@@ -5,7 +5,9 @@
 Write a Python program to calculate the sum of a list of numbers.
 
 # Program-2 : 
-   
+   Write a Python program of recursion list sum.
+   Test Data: [1, 2, [3,4], [5,6]]
+  Expected Result: 21
 
 # Program-3 :
     
