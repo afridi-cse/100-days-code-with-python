@@ -10,7 +10,7 @@ Write a Python program to calculate the sum of a list of numbers.
   Expected Result: 21
 
 # Program-3 :
-    
+    Write a Python program to get the factorial of a non-negative integer.
 
 # Program-4 :
   
