@@ -26,8 +26,10 @@
     Current Date : 2015-06-22
     5 days before Current Date : 2015-06-17
 
-# Program-5 :
-  
+# Program-5 :  
+    Write a Python program to convert unix timestamp string to readable date. 
+    Sample Unix timestamp string : 1284105682
+    Expected Output : 2010-09-10 13:31:22
 
 # Program-6 : 
  
