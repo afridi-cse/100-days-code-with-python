@@ -2,7 +2,6 @@
 
 # Program 1 :
    Write a Python script to display the various Date Time formats.
-
     a) Current date and time
     b) Current year
     c) Month of year
@@ -42,7 +41,7 @@
     Write a Python program to print next 5 days starting from today.
 
 # Program-9 :
-  Write a Python program to add 5 seconds with the current time.
+    Write a Python program to add 5 seconds with the current time.
 
 # Program-10 :
- Write a Python program to convert Year/Month/Day to Day of Year in Python.
+    Write a Python program to convert Year/Month/Day to Day of Year in Python.
