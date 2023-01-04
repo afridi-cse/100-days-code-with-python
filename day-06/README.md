@@ -32,10 +32,11 @@
     Expected Output : 2010-09-10 13:31:22
 
 # Program-6 : 
- Write a Python program to print yesterday, today, tomorrow.
+    Write a Python program to print yesterday, today, tomorrow.
 
 # Program-7 :
-
+    Write a Python program to convert the date to datetime (midnight of the date) in Python.
+    Sample Output : 2015-06-22 00:00:00
 
 # Program-8 :
  
