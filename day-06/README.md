@@ -21,7 +21,10 @@
     Expected Output : 2014-07-01 14:43:00
   
 # Program-4 :
- 
+    Write a Python program to subtract five days from current date.
+    Sample Date :
+    Current Date : 2015-06-22
+    5 days before Current Date : 2015-06-17
 
 # Program-5 :
   
