@@ -32,7 +32,7 @@
     Expected Output : 2010-09-10 13:31:22
 
 # Program-6 : 
- 
+ Write a Python program to print yesterday, today, tomorrow.
 
 # Program-7 :
 
