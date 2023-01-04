@@ -13,7 +13,7 @@
     h) Day of week
 
 # Program-2 : 
-
+    Write a Python program to determine whether a given year is a leap year.
 
 # Program-3 :
 
