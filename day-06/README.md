@@ -42,7 +42,7 @@
     Write a Python program to print next 5 days starting from today.
 
 # Program-9 :
-  
+  Write a Python program to add 5 seconds with the current time.
 
 # Program-10 :
  
