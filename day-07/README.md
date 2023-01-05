@@ -45,4 +45,4 @@
    Write a Python program to add a month with a specified date.
 
 # Program-10 :
-   
+   Write a Python program to count the number of Monday of the 1st day of the month from 2022 to 2023.
