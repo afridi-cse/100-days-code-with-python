@@ -9,7 +9,7 @@
     Expected Output : 25
 
 # Program-3 :
-  
+    Write a Python program to select all the Sundays of a specified year.
 
 # Program-4 :
     
