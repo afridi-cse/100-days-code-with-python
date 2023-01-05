@@ -32,7 +32,8 @@
         Expected Output : 366 days, 0:00:00
 
 # Program-6 : 
-    
+   Write a Python program to get the date of the last Tuesday.
+
 
 # Program-7 :
    
