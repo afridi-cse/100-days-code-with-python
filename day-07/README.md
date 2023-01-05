@@ -36,7 +36,7 @@
 
 
 # Program-7 :
-   
+   Write a Python program to test the third Tuesday of a month.
 
 # Program-8 :
    
