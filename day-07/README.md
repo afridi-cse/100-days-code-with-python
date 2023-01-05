@@ -27,7 +27,9 @@
         2001-03-01
 
 # Program-5 :  
-   
+    Write a Python program to get days between two dates. 
+        Sample Dates : 2000,2,28, 2001,2,28
+        Expected Output : 366 days, 0:00:00
 
 # Program-6 : 
     
