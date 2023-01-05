@@ -39,7 +39,7 @@
    Write a Python program to test the third Tuesday of a month.
 
 # Program-8 :
-   
+   Write a Python program to get the last day of a specified year and month.
 
 # Program-9 :
    
