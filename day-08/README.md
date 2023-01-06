@@ -9,6 +9,7 @@ Write a Python program calculates the date six months from the current date usin
 
 
 # Program-3 :
+Write a Python program to create 12 fixed dates from a specified date over a given period. The difference between two dates will be 20.
 
 # Program-4 :
 
