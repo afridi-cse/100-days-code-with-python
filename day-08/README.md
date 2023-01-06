@@ -16,7 +16,10 @@ Write a Python program to get the dates 30 days before and after from the curren
 
 
 
-# Program-5 :  
+# Program-5 :
+Write a Python program to get the GMT and local current time.
+
+
 
 # Program-6 : 
 
