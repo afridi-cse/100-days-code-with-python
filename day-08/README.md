@@ -22,6 +22,9 @@ Write a Python program to get the GMT and local current time.
 
 
 # Program-6 : 
+Write a Python program convert a date to timestamp.
+
+
 
 # Program-7 :
 
