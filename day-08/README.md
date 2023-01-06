@@ -27,6 +27,9 @@ Write a Python program convert a date to timestamp.
 
 
 # Program-7 :
+Write a Python program to display the date and time in a human-friendly string.
+
+
 
 # Program-8 :
 
