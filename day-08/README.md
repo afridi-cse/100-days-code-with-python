@@ -5,6 +5,8 @@
 
 
 # Program-2 : 
+Write a Python program calculates the date six months from the current date using the datetime module.
+
 
 # Program-3 :
 
