@@ -20,6 +20,8 @@ Write a Python program to convert Python dictionary object (sort by key) to JSON
 Write a Python program to convert JSON encoded data into Python objects.
 
 # Program-6 : 
+Write a Python program to check whether an instance is complex or not.
+
 
 # Program-7 :
 
