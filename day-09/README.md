@@ -9,6 +9,7 @@ Write a Python program to convert Python object to JSON data.
 
 
 # Program-3 :
+Write a Python program to convert Python objects into JSON strings. Print all the values.
 
 # Program-4 :
 
