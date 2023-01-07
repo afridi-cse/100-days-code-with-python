@@ -5,6 +5,8 @@ Write a Python program to convert JSON data to Python object.
 
 
 # Program-2 : 
+Write a Python program to convert Python object to JSON data.
+
 
 # Program-3 :
 
