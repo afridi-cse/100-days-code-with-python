@@ -24,6 +24,9 @@ Write a Python program to check whether an instance is complex or not.
 
 
 # Program-7 :
+Write a Python program to check whether a JSON string contains complex object or not.
+
+
 
 # Program-8 :
 
