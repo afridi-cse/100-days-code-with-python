@@ -51,4 +51,6 @@ Positive numbers (n1) : Negative numbers(n2) : Zeroes(n3)
 = n1/n : n2/n : n3/n
 # Program-8 :
 
+Write a Python program to convert a given list of strings into list of lists using map function.
+
 
