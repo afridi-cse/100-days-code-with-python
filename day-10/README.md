@@ -1,4 +1,4 @@
-# Python JSON
+# Python 
 
 # Program 1 :
 Write a Python program to construct the following pattern, using a nested for loop.
@@ -16,17 +16,11 @@ Write a Python program to construct the following pattern, using a nested for lo
 # Program-2 : 
 Write a Python program that accepts a word from the user and reverse it.
 
-
-
 # Program-3 :
-
 Write a Python program to count the number of even and odd numbers from a series of numbers.
-
-
 
 # Program-4 :
 Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
-
 Note : Use 'continue' statement.
 
 # Program-5 :
@@ -42,6 +36,7 @@ At least 1 number between [0-9].
 At least 1 character from [$#@].
 Minimum length 6 characters.
 Maximum length 16 characters.
+
 # Program-7 :
 Write a Python program to find the ration of positive numbers, negative numbers and zeroes in an array of integers.
 
@@ -49,8 +44,8 @@ Total number of elements in the give array = n
 Ratio:
 Positive numbers (n1) : Negative numbers(n2) : Zeroes(n3)
 = n1/n : n2/n : n3/n
-# Program-8 :
 
+# Program-8 :
 Write a Python program to convert a given list of strings into list of lists using map function.
 
 
