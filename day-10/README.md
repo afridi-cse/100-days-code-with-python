@@ -14,6 +14,9 @@ Write a Python program to construct the following pattern, using a nested for lo
     *
 
 # Program-2 : 
+Write a Python program that accepts a word from the user and reverse it.
+
+
 
 # Program-3 :
 
