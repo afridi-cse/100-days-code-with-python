@@ -25,6 +25,9 @@ Write a Python program to count the number of even and odd numbers from a series
 
 
 # Program-4 :
+Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
+
+Note : Use 'continue' statement.
 
 # Program-5 :
 
