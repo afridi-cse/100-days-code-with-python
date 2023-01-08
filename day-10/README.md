@@ -43,7 +43,12 @@ At least 1 character from [$#@].
 Minimum length 6 characters.
 Maximum length 16 characters.
 # Program-7 :
+Write a Python program to find the ration of positive numbers, negative numbers and zeroes in an array of integers.
 
+Total number of elements in the give array = n
+Ratio:
+Positive numbers (n1) : Negative numbers(n2) : Zeroes(n3)
+= n1/n : n2/n : n3/n
 # Program-8 :
 
 
