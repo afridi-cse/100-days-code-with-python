@@ -33,7 +33,15 @@ Note : Use 'continue' statement.
 Write a Python program which iterates the integers from 1 to 50. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 # Program-6 : 
+Write a Python program to check the validity of a password (input from users).
 
+Validation :
+
+At least 1 letter between [a-z] and 1 letter between [A-Z].
+At least 1 number between [0-9].
+At least 1 character from [$#@].
+Minimum length 6 characters.
+Maximum length 16 characters.
 # Program-7 :
 
 # Program-8 :
