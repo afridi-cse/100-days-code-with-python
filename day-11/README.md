@@ -14,6 +14,10 @@ Test Data :
 Sequential_Search([11,23,58,31,56,77,43,12,65,19],31) -> (True, 3)
 
 # Program-3 :
+Write a Python program for binary search for an ordered list.
+Test Data :
+Ordered_binary_Search([0, 1, 3, 8, 14, 18, 19, 34, 52], 3) -> True
+Ordered_binary_Search([0, 1, 3, 8, 14, 18, 19, 34, 52], 17) -> False
 
 # Program-4 :
 
