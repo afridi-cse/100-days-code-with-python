@@ -8,7 +8,7 @@ binary_search([1,2,3,5,8], 6) -> False
 binary_search([1,2,3,5,8], 5) -> True
 
 # Program-2 : 
-Write a Python program for sequential search. Go to the editor
+Write a Python program for sequential search. 
 Sequential Search : In computer science, linear search or sequential search is a method for finding a particular value in a list that checks each element in sequence until the desired element is found or the list is exhausted. The list need not be ordered.
 Test Data :
 Sequential_Search([11,23,58,31,56,77,43,12,65,19],31) -> (True, 3)
@@ -37,7 +37,9 @@ Sample Data: [14,46,43,27,57,41,45,21,70]
 Expected Result : [14, 21, 27, 41, 43, 45, 46, 57, 70]
 
 # Program-7 :
- Write a Python program to sort a list of elements using shell sort algorithm. Go to the editor
+ Write a Python program to sort a list of elements using shell sort algorithm. 
 Note : According to Wikipedia "Shell sort or Shell's method, is an in-place comparison sort. It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by insertion (insertion sort). The method starts by sorting pairs of elements far apart from each other, then progressively reducing the gap between elements to be compared. Starting with far apart elements can move some out-of-place elements into position faster than a simple nearest neighbor exchange."
 
 # Program-8 :
+ Write a Python program to sort a list of elements using the merge sort algorithm. 
+Note: According to Wikipedia "Merge sort (also commonly spelled mergesort) is an O(n log n) comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the implementation preserves the input order of equal elements in the sorted output."
