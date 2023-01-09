@@ -37,5 +37,7 @@ Sample Data: [14,46,43,27,57,41,45,21,70]
 Expected Result : [14, 21, 27, 41, 43, 45, 46, 57, 70]
 
 # Program-7 :
+ Write a Python program to sort a list of elements using shell sort algorithm. Go to the editor
+Note : According to Wikipedia "Shell sort or Shell's method, is an in-place comparison sort. It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by insertion (insertion sort). The method starts by sorting pairs of elements far apart from each other, then progressively reducing the gap between elements to be compared. Starting with far apart elements can move some out-of-place elements into position faster than a simple nearest neighbor exchange."
 
 # Program-8 :
